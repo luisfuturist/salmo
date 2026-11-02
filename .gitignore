@@ -1,2 +1,5 @@
 src/scripts/salmo/salmo
 src/scripts/salmox/salmox
+
+# myco worktree mount point (created by `myco init`)
+project/
